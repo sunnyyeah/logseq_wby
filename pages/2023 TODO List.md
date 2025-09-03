@@ -1,0 +1,8 @@
+- TODO 支持一些多样化的灰度策略（例如按 appid 、按项目、按白名单、按百分比灰度这样的策略）
+- TODO IDE 详情中给出跳集群链接（k8s cluster）
+- DONE 工作区列表中工作区名称点击进入web端工作区
+	- ![image.png](../assets/image_1675131870503_0.png)
+	-
+- TODO 添加工作区数量限制的白名单
+- TODO xcode 版本配置逻辑调整，现在前端 hard code 了工程配置
+-

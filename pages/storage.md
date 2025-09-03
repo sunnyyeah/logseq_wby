@@ -1,0 +1,4 @@
+- localStorage
+	- 本地持久化，始终存在，除非我们手动清除
+- sessionStorage
+	- 这个经过测试发现它的会话是根据域名来划分的，同一个域名下的 sessionStorage 是相同的

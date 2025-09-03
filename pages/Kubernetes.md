@@ -1,0 +1,35 @@
+- 资源管理器
+	- Apache MESOS
+	- Kubernetes
+	- docker SWARM
+- [[容器]]
+- [[Kubernetes 基础概念]]
+- [[Kubernetes 使用]]
+- [[副本机制和其他控制器：不是托管的 pod]]
+- [[服务：让客户的发现 pod 并与之通信]]
+- [[卷：将磁盘挂载到容器]]
+	- [[bind mount]]
+- [[ConfigMap 和 Secret：配置应用程序]]
+- [[从应用访问 pod 元数据以及其他资源]]
+- [[Deployment：声明式地升级应用]]
+- [[StatefulSet：部署有状态的多副本应用]]
+- [[了解 Kubernetes 机理]]
+- [[Kubernetes API 服务器的安全防护]]
+- [[保障集群内节点和网络安全]]
+- [[计算资源管理]]
+- [[自动横向伸缩 pod 与集群节点]]
+- [[高级调度]]
+- [[开发应用的最佳实践]]
+- [[Kubernetes 应用扩展]]
+-
+-
+-
+- pv、pvc 是啥
+- pod 和 statefulSets 的区别是啥？
+-
+-
+-
+-
+-
+-
+-

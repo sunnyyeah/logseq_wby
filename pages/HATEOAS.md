@@ -1,0 +1,3 @@
+- def：Hypermedia as the Engine of Application State
+- HATEOAS 是 REST(Representational state transfer) 的约束之一。
+-

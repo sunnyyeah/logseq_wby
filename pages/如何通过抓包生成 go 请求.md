@@ -1,0 +1,9 @@
+- 1. 打开浏览器抓包，找到想要使用的 API
+	- ![image.png](../assets/image_1656429101866_0.png)
+-
+- 2. 拷贝 curl
+	- ![image.png](../assets/image_1656429141567_0.png){:height 349, :width 531}
+-
+- 3. 使用 [代码生成器](https://curlconverter.com/#go) 生成对应的代码，将拷贝的 curl 填入
+	- ![image.png](../assets/image_1656429237198_0.png)
+	-

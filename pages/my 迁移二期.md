@@ -1,0 +1,4 @@
+- 测试用的包：
+	- https://ae.feishu-boe.cn/ae/packageinstall/token/1836364550255754?from=install_link
+	- https://ae.feishu-boe.cn/ae/packageinstall/token/1829359729020099?from=install_link
+-
